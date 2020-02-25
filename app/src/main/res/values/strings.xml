@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">mi app</string>
+    <string name="title_activity_app2">app2</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
